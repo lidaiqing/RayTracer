@@ -1,3 +1,6 @@
+![alt text](https://github.com/lidaiqing/RayTracer/blob/master/dragon_4096.jpg "Rendered Picture")
+
+
 This project implements techniques like antialiasing, area light for soft shading and a scene designed by ourselves.
 
 We further implemented texture mapping, environmental mapping, refraction, handling arbitrary surface mesh and multi-threading.
