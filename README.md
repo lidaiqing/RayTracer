@@ -1,5 +1,4 @@
-#H2
-RayTracer rendering picture
+Alt-H1 RayTracer rendering picture
 
 ![alt text](https://github.com/lidaiqing/RayTracer/blob/master/dragon_4096.jpg "Rendered Picture")
 
